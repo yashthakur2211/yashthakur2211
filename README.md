@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Third-year AI&DS student passionate about machine learning, data science, and AI applications, driven to innovate and solve complex problems
+
 ![Banner_image](https://github.com/yashthakur2211/yashthakur2211/assets/104083112/8817cdcb-bd40-445b-b2eb-054d5af23a21)
 
 <!--
