@@ -39,4 +39,12 @@
 
 ###
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yashthakur2211/yashthakur2211/output/snake.svg" alt="Snake animation" />
+
+###
+
 
