@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Thakur</h1>
 <h3 align="center">Third-year AI&DS student I've honed my skills in Android development, SQL, Python, Web Development. Eager learner with strong problem-solving skills.</h3>
-\n
+/n
 
 
 <h3 align="left">Connect with me:</h3>
