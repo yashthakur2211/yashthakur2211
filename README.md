@@ -3,7 +3,7 @@
 ![Banner_image](https://github.com/yashthakur2211/yashthakur2211/assets/104083112/8817cdcb-bd40-445b-b2eb-054d5af23a21)
 
 <h1 align="center">Hi 👋, I'm Yash Thakur</h1>
-<h3 align="center">Third-year AI&DS student I've honed my skills in Android development, SQL, Python, Web Development. Eager learner with strong problem-solving skills.</h3>
+<h3 align="center">Final-year AI&DS student I've honed my skills in Android development, SQL, Python, Web Development. Eager learner with strong problem-solving skills.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -12,8 +12,6 @@
 <a href="https://instagram.com/yash_thakur_2_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_thakur_2_2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash thakur" height="30" width="40" /></a>
 </p>
-
-- 🔭 I’m currently working on **Chat_Application**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
