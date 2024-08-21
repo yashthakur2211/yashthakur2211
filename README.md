@@ -3,7 +3,7 @@
 ![Banner_image](https://github.com/yashthakur2211/yashthakur2211/assets/104083112/8817cdcb-bd40-445b-b2eb-054d5af23a21)
 
 <h1 align="center">Hi 👋, I'm Yash Thakur</h1>
-<h3 align="center">Final-year AI&DS student I've honed my skills in Android development, SQL, Python, Web Development. Eager learner with strong problem-solving skills.</h3>
+<h3 align="center">Final-year AI&DS student I've honed my skills in Python, Web Development, SQL, Machine Learning & Deep Learning. Eager learner with strong problem-solving skills.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
