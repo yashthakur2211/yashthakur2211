@@ -1,4 +1,3 @@
-![yash_banner](https://github.com/user-attachments/assets/f7cc94f5-cce3-418f-a8de-8c5aa8921dcc)
 
 
 ![Banner_image](https://github.com/yashthakur2211/yashthakur2211/assets/104083112/8817cdcb-bd40-445b-b2eb-054d5af23a21)
