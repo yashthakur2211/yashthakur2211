@@ -1,26 +1,20 @@
-![yash_banner](https://github.com/user-attachments/assets/97c72df8-6aee-408a-99db-98eb70266fbb)
+![yash_banner](<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/3469bc80-5410-477c-91fc-8a4205657a8b" />
+)
 
 
 
 
 <h1 align="center">Hi 👋, I'm Yash Thakur</h1>
-<h3 align="center">Final-year AI&DS student I've honed my skills in Python, Web Development, SQL, Machine Learning & Deep Learning. Eager learner with strong problem-solving skills.</h3>
+<h3 align="center">Engineering graduate with strong interest in AI and Cloud technologies. Skilled in Python, SQL, and modern data tools with
+experience in building AI/ML models, RAG system and data-driven applications. Passionate about leveraging cloud and data to
+create scalable, intelligent solutions</h3>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/yash thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash thakur" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-thakur2211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash thakur" height="30" width="40" /></a>
 <a href="https://instagram.com/yash_thakur_2_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_thakur_2_2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yash thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash thakur" height="30" width="40" /></a>
 </p>
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-- 💬 Ask me about **Python, SQL, Pandas , Numpy, Android, Java, JavaScript**
-
-- 📫 How to reach me **yashthakur08905@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c4_XSQ_a83GJYetk6Vg9q3qaMcQZ1Bke/view](https://drive.google.com/file/d/1c4_XSQ_a83GJYetk6Vg9q3qaMcQZ1Bke/view)
 
 
 <h3 align="left">🛠 Language and tools</h3>
