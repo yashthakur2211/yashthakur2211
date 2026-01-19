@@ -1,4 +1,4 @@
-![yash_banner](<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/3469bc80-5410-477c-91fc-8a4205657a8b" />
+![yash_banner](https://raw.githubusercontent.com/yashthakur2211/yashthakur2211/refs/heads/main/1760857126644.jfif
 )
 
 
